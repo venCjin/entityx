@@ -8,3 +8,7 @@ Makefile
 html/
 Vagrantfile
 .vagrant
+bin/
+bin-int/
+*.vcxproj
+*.filters
